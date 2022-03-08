@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @romasingh16181
-- 👀 I’m interested in prajjwal
+- 👀 I’m interested in Full stack web development.
 - 🌱 I’m currently learning Azure cloud , Python programming.
 - 📫 How to reach me : romapragati@gmail.COM
 
