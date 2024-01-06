@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romasingh16181
-- 👀 I’m interested in Full stack web development.
-- 🌱 I’m currently learning Azure cloud , Python programming.
-- 📫 How to reach me : romapragati@gmail.COM
+- 👀 I’m interested in Automation Testing(selenim+python) .
+- 🌱 I’m currently learning  Robot framework and Pytest framework.
+- 📫 How to reach me: romapragati@gmail.COM
 
 <!---
 romasingh16181/romasingh16181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
